@@ -5,6 +5,7 @@ colorist
 datetime
 discord.py==1.7.3
 httpx
+httpx[http2]
 keyboard
 mouse
 pathlib
